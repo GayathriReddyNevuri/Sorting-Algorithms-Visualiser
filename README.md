@@ -22,6 +22,6 @@ Sorting Algorithm Visualiser is a small web app that helps you understand how di
 → JavaScript — Sorting logic and visualization
 
 **Demo:**
-You can try it live here: 
+You can try it live here: **https://gayathrireddynevuri.github.io/Sorting-Algorithms-Visualiser/**
 
 <img width="960" height="432" alt="image" src="https://github.com/user-attachments/assets/82f323ec-0a4c-4452-931d-b74435a4cdef" />
